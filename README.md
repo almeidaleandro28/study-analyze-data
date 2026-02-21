@@ -1,2 +1,2 @@
-# study-analyze-data
-dataset Goodreads 
+# study-analyze-data using dataset Goodreads 
+[link dataset](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks)
