@@ -17,7 +17,7 @@ datas = pd.read_csv('data/raw/goodreads.csv')
 # print( datas['Unnamed: 13'] )
 # print( datas['Unnamed: 14'] )
 
-# copying column removing
+# copying column that will be removed
 # copy_column = datas[ [ 'Unnamed: 12','Unnamed: 13','Unnamed: 14' ] ].copy()
 # copy_column.to_csv('data/raw/columns_remove.csv', index=False)
 
